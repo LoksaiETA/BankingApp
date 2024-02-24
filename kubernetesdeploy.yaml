@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: bankapp-eta-container
-        image: loksaieta/bankapp-eta-app
+        image: DAWOOD4134/bankapp-eta-app
         ports:
         - containerPort: 8082
 ---
